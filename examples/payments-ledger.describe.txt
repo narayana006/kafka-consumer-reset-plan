@@ -1,0 +1,4 @@
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID                                   HOST            CLIENT-ID
+payments-ledger payments        1          0               0               0               ledger-2-example-member /127.0.0.1      ledger-2
+payments-ledger payments        0          400             400             0               ledger-1-example-member /127.0.0.1      ledger-1

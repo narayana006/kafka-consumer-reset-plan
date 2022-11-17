@@ -1,0 +1,8 @@
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID     HOST            CLIENT-ID
+billing-sync    payments        0          0               400             400             -               -               -
+billing-sync    payments        1          0               0               0               -               -               -
+billing-sync    orders          0          419             419             0               -               -               -
+billing-sync    orders          1          404             404             0               -               -               -
+billing-sync    orders          2          77              377             300             -               -               -
+Consumer group 'billing-sync' has no active members.

@@ -1,0 +1,6 @@
+
+GROUP           TOPIC           PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID     HOST            CLIENT-ID
+order-processor orders          0          419             419             0               -               -               -
+order-processor orders          1          281             404             123             -               -               -
+order-processor orders          2          0               377             377             -               -               -
+Consumer group 'order-processor' has no active members.

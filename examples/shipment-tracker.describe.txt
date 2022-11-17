@@ -1,0 +1,6 @@
+
+GROUP               TOPIC            PARTITION  CURRENT-OFFSET  LOG-END-OFFSET  LAG             CONSUMER-ID     HOST            CLIENT-ID
+shipment-tracker-v2 shipments.events 2          303             303             0               -               -               -
+shipment-tracker-v2 shipments.events 1          229             309             80              -               -               -
+shipment-tracker-v2 shipments.events 0          288             288             0               -               -               -
+Consumer group 'shipment-tracker-v2' has no active members.
